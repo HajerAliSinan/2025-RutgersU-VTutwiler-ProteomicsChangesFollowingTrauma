@@ -10,11 +10,11 @@ The notebook performs the following steps:
 
 Data Preprocessing: Filters and prepares protein abundance data, handling missing values and applying inclusion criteria.
 
-Imputation: Uses Multivariate Imputation by Chained Equations (MICE) via the fancyimpute package to impute missing protein values. Supports estimators like Bayesian Ridge and Random Forest.
+Imputation: Uses Multivariate Imputation by Chained Equations (MICE) to impute missing protein values using a Random Forest estimator.
 
 Correlation Analysis: Computes and visualizes correlation matrices for protein features and/or clinical metadata, highlighting phenotype-specific associations.
 
-Visualization: Generates clear, publication-ready plots including heatmaps and scatterplots.
+Visualization: Generates clear plots including heatmaps and scatterplots.
 
 
 REQUIREMENTS ----------------
