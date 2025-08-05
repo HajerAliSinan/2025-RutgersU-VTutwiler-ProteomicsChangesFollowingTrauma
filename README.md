@@ -45,4 +45,5 @@ CITATION ----------------
 
 If you use this code in your work, please cite the associated manuscript. 
 
-HajerAliSinan. (2025). HajerAliSinan/TraumaProteomicsPaper2025: Trauma Proteomics Imputation and Correlation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16741038
+
+HajerAliSinan. (2025). HajerAliSinan/2025-RutgersU-VTutwiler-ProteomicsChangesFollowingTrauma: Imputation and Correlation (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16741038
